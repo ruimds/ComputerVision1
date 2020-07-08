@@ -1,0 +1,6 @@
+﻿  main.c
+c:\users\rui santos\documents\visão por computador\visao\visao\main.c(236): warning C4244: '=': conversion from 'float' to 'unsigned char', possible loss of data
+c:\users\rui santos\documents\visão por computador\visao\visao\main.c(270): warning C4244: '=': conversion from 'float' to 'unsigned char', possible loss of data
+c:\users\rui santos\documents\visão por computador\visao\visao\main.c(305): warning C4244: '=': conversion from 'float' to 'unsigned char', possible loss of data
+c:\users\rui santos\documents\visão por computador\visao\visao\main.c(741): warning C4715: 'main123': not all control paths return a value
+  Visao.vcxproj -> C:\Users\Rui Santos\Documents\Visão por Computador\Visao\Debug\Visao.exe
